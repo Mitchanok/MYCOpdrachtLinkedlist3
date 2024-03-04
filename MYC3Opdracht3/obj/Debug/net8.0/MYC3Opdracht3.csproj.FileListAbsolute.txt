@@ -1,0 +1,14 @@
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\bin\Debug\net8.0\MYC3Opdracht3.exe
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\bin\Debug\net8.0\MYC3Opdracht3.deps.json
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\bin\Debug\net8.0\MYC3Opdracht3.runtimeconfig.json
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\bin\Debug\net8.0\MYC3Opdracht3.dll
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\bin\Debug\net8.0\MYC3Opdracht3.pdb
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\MYC3Opdracht3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\MYC3Opdracht3.AssemblyInfoInputs.cache
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\MYC3Opdracht3.AssemblyInfo.cs
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\MYC3Opdracht3.csproj.CoreCompileInputs.cache
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\MYC3Opdracht3.dll
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\refint\MYC3Opdracht3.dll
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\MYC3Opdracht3.pdb
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\MYC3Opdracht3.genruntimeconfig.cache
+D:\C#\MYC3Opdracht3\MYC3Opdracht3\obj\Debug\net8.0\ref\MYC3Opdracht3.dll
